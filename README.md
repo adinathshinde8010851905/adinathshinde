@@ -26,7 +26,7 @@
 ![Adinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinathshinde&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinathshinde&layout=compact&theme=tokyonight)
+![English Hindi Marathi](https://github-readme-stats.vercel.app/api/top-langs/?username=adinathshinde&layout=compact&theme=tokyonight)
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/adinath-shinde-9258a837a/
